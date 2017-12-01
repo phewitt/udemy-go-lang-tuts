@@ -29,7 +29,7 @@ func main() {
 	p.print()
 }
 
-func (p person) updateName(newFirstName string) {
+func (p *person) updateName(newFirstName string) {
 	p.firstName = newFirstName
 }
 func (p person) print() {
