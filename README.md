@@ -1,2 +1,2 @@
-# go-lang-practice
+# udemy-go-lang-tuts
 Udemy Go: the complete guide
